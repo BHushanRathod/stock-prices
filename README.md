@@ -38,4 +38,4 @@ Hit the server::
     * for eg. to get google's stock data query would be
         
         
-        http://localhost:<port>/data?c=GOOG
+        http://localhost:5000/data?c=GOOG
