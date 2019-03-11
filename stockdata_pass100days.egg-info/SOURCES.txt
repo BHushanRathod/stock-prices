@@ -1,0 +1,6 @@
+README.md
+setup.py
+stockdata_pass100days.egg-info/PKG-INFO
+stockdata_pass100days.egg-info/SOURCES.txt
+stockdata_pass100days.egg-info/dependency_links.txt
+stockdata_pass100days.egg-info/top_level.txt
